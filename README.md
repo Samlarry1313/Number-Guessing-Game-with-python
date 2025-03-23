@@ -1,4 +1,4 @@
-#   **Python Number Guessing Game.**
+#  Number Guessing Game using python language
 
 This number guessing game, created using Python, it offers an interactive  experience! .The goal is simple: guess the secret number chosen by the computer.  The number chosen by the comuter is within a specified range of 1 to 100 ,so it not too hard , and your task is to guess it in several attempts.
 
